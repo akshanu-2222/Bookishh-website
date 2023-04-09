@@ -1,0 +1,32 @@
+body{
+   background-image: url("comet.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+   
+    
+
+}
+
+.responsive{
+    max-width:30%;
+    height:auto;
+}
+
+img{
+    padding:15px;
+   
+}
+
+.displayBox{
+    width:100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.scroll-box{
+    overflow-y: auto;
+    height:500px;
+    float:left;
+    padding:1rem;
+
+}
